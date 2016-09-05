@@ -58,7 +58,7 @@ class MacParser(object):
         """Refresh/reload manuf database. Call this if database has been updated.
 
         Args:
-            manuf_name (str): Location of the manuf data base file. Defaults to
+            manuf_name (str): Location of the manuf wifi_data base file. Defaults to
             "manuf" in the same directory.
 
         Raises:
